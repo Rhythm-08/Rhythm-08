@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Android,HTML,CSS,Firebase**
+- 💬 Ask me about **HTML,CSS,Firebase**
 
 - 📫 How to reach me **rhythmsharma808@gmail.com**
 
