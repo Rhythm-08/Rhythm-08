@@ -7,7 +7,7 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhythm-08" alt="rhythm-08" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Android,HTML,CSS,Firebase**
 
