@@ -1,30 +1,181 @@
-<h1 align="center">Hi 👋, I'm Rhythm Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythm-08&label=Profile%20views&color=0e75b6&style=flat" alt="rhythm-08" /> </p>
+## Skills
 
-- 🌱 I’m currently learning **Angular and Vue**
+<table align="center" style="border: none">
+<!-- Operational systems -->
+<tr>
+   <td align="center" width="96">
+        <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/apple-ios-system-platform-os-mac-linux-512.png" width="50" height="50" alt="Mac OS" />
+      <br>Mac OS
+    </td>
+    <td align="center" width="96">
+        <img src="https://icons-for-free.com/download-icon-microsoft+windows+icon-1320186681671871370_512.png" width="50" height="50" alt="Windows" />
+      <br>Windows
+    </td>
+  </tr>
+  
+<!-- Code Editors -->
+<tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" alt="Visual Studio Code" />
+      <br>VS Code
+    </td>       
+   <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Breezeicons-apps-48-sublime-text.svg/1200px-Breezeicons-apps-48-sublime-text.svg.png" width="50" height="50" alt="Sublime Text" />
+      <br>Sublime Text
+    </td>
+  </tr>
+<!-- HTML/CSS -->
+  <tr>
+   <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50" alt="HTML" />
+      <br>HTML
+    </td>
+   <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50" height="50" alt="CSS" />
+      <br>CSS
+    </td>
+   <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
+      <br>SASS
+    </td>
 
-- 👨‍💻 All of my projects are available at [https://spotify-clone-c20c4.web.app/home](https://spotify-clone-c20c4.web.app/home)
+   <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" width="50" height="50" alt="jQuery" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
+      <br />Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50" />
+      <br />tailwind
+    </td>
+  </tr>
+<!-- Angular -->
+<tr>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+        <img src="https://angular.io/generated/images/marketing/concept-icons/material.svg" width="50" height="50" alt="Material" />
+      <br>Material
+    </td>
+    <td align="center" width="96">
+        <img src="https://ngrx.io/assets/images/badge.svg" width="50" height="50" alt="Material" />
+      <br>NGRX
+    </td>
+    <td align="center" width="96">
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-forms.svg?v=4" width="50" height="50" />
+      <br>Forms
+    </td>
+    <td align="center" width="96">
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-router.svg?v=4" width="50" height="50" />
+      <br>Router
+    </td>
+    <td align="center" width="96">
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-i18n.svg?v=4" width="50" height="50" />
+      <br>i18n
+    </td>
+    <td align="center" width="96">
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-jest.svg?v=4" width="50" height="50" />
+      <br>angular+jest
+    </td>
+    <td align="center" width="96">
+        <img src="https://maartentibau.github.io/angular-logos/logos/angular-animations.svg?v=4" width="50" height="50" />
+      <br>Animations
+    </td>
+</tr>
+<!-- React -->
+<tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="50" height="50" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" width="50" height="50" alt="React" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.stackshare.io/service/8846/preview.png" width="50" height="50" />
+      <br>Formik
+    </td>
+    <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="50" height="50"  />
+      <br>Hook Form
+    </td>
+    <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" width="50" height="50" />
+      <br>i18next
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="50" height="50" />
+      <br>Query
+    </td>
+    <td align="center" width="96">
+        <img src="https://loadable-components.com/static/ed7fcc62c6398ebf18c8aa4fc718a740/1b5b9/home-logo.png" width="50" height="50" />
+      <br>@loadable/component
+    </td>
+</tr>
+<!-- 3'rd party Libraries -->
+<tr>
+    <td align="center" width="96">
+        <img src="https://scicoding.com/content/images/2021/09/chartjs-logo-1.svg" width="50" height="50" alt="Lodash" />
+      <br>chart.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://wp-assets.highcharts.com/svg/logo2021.svg" width="50" height="50" alt="Lodash" />
+      <br>highcharts
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/momentjs.svg" width="50" height="50" alt="Lodash" />
+      <br>moment.js
+    </td>>
+</tr>
+<!-- Databases -->
+<tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="50" height="50" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+</tr>
 
-- 💬 Ask me about **angular, angular material, Rxjs**
-
-- 📫 How to reach me **rhythmsharma808@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rhythm08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rhythm08" height="30" width="40" /></a>
-<a href="https://twitter.com/rhythms12892298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhythms12892298" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rhythm-sharma-708a421a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhythm-sharma-708a421a8" height="30" width="40" /></a>
-<a href="https://instagram.com/yyrhythm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yyrhythm" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rhythm_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rhythm_08" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rhythmsharma808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rhythmsharma808" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rhythmsharma808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rhythmsharma808" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhythm-08&show_icons=true&locale=en&layout=compact" alt="rhythm-08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhythm-08&" alt="rhythm-08" /></p>
+<!-- Tools -->
+<tr>
+    <td align="center" width="96">
+        <img src="https://logos-download.com/wp-content/uploads/2021/01/Jira_Logo.png" width="50" height="50" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png" width="50" height="50" />
+      <br>npm
+    </td>
+    <td align="center" width="96">
+        <img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" width="50" height="50" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://ih1.redbubble.net/image.404023266.1965/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="50" height="50"  />
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/S/scrum-logo-B057CBD9B8-seeklogo.com.png" width="50" height="50" alt="" />
+      <br>Scrum
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" width="50" height="50" alt="" />
+      <br>Prettier
+    </td>
+</tr>
+</table>
