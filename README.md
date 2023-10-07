@@ -10,8 +10,12 @@
       <br>Mac OS
     </td>
     <td align="center" width="96">
-        <img src="https://icons-for-free.com/download-icon-microsoft+windows+icon-1320186681671871370_512.png" width="50" height="50" alt="Windows" />
+        <img src="https://icons-for-free.com/iconfiles/png/512/windows+icon-1320183870246183266.png" width="50" height="50" alt="Windows" />
       <br>Windows
+    </td>
+   <td align="center" width="96">
+        <img src="https://icons-for-free.com/iconfiles/png/512/linux-1331550890294271043.png" width="50" height="50" alt="Linux" />
+      <br>Linux
     </td>
   </tr>
   
@@ -124,6 +128,15 @@
       <br>@loadable/component
     </td>
 </tr>
+
+<!-- Vue -->
+<tr>
+   <td align="center" width="96">
+        <img src="https://icons-for-free.com/iconfiles/png/128/super+tiny+icons+vue-1324450793910827375.png" width="50" height="50" alt="Vue" />
+      <br>Vue.js
+    </td>
+</tr>
+
 <!-- 3'rd party Libraries -->
 <tr>
     <td align="center" width="96">
