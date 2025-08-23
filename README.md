@@ -73,11 +73,11 @@
 
 ###
 
-<img align="left" height="200" src="https://64.media.tumblr.com/adb4c66e95611b7790100490c71a9034/tumblr_osywtlP5Kj1v6bs4yo5_400.gif"  />
+<img align="left" height="400" src="https://64.media.tumblr.com/adb4c66e95611b7790100490c71a9034/tumblr_osywtlP5Kj1v6bs4yo5_400.gif"  />
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rhythm-08.Rhythm-08&left_color=darkviolet&right_color=dimgrey"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rhythm-08.Rhythm-08&left_color=darkviolet&right_color=dimgrey"  />
 
 ###
 
