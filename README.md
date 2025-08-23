@@ -8,7 +8,51 @@
 
 <br clear="both">
 
-<p align="left">Hi, I’m Rhythm 👋<br>I’m a Data Scientist, Machine Learning & Deep Learning Engineer, and Full-Stack (MEAN) Developer with 2+ years of experience building, fine-tuning, and deploying AI/ML solutions across NLP, Computer Vision, and Generative AI.<br><br>💡 My focus:<br><br>Designing end-to-end ML pipelines — from dataset preparation → model training → evaluation → deployment.<br><br>Building NLP systems (transformers, LoRA fine-tuning, quantization, efficient inference).<br><br>Computer Vision & OCR solutions optimized for embedded and edge devices.<br><br>Generative AI with LLMs (transformers, unsloth, ollama, OSS-120B, LoRA).<br><br>Deployment on cloud & edge (Raspberry Pi, containerized environments, GPUs, RunPod).<br><br>Full-stack development with MEAN stack integrated with AI backends.<br><br>🔧 Tech Stack<br><br>Languages & Frameworks<br><br>Python, JavaScript (Node.js, Angular, Express, MongoDB)<br><br>PyTorch, TensorFlow, Hugging Face Transformers<br><br>FastAPI, Flask, LangChain<br><br>Specialties<br><br>NLP (Transformers, fine-tuning, quantization, inference optimization)<br><br>Computer Vision & OCR<br><br>Generative AI & LLM Deployment<br><br>Edge AI (Raspberry Pi, IoT devices)<br><br>Tools & Platforms<br><br>Docker, Kubernetes<br><br>RunPod, GCP, AWS, Azure<br><br>MongoDB, SQL, Pandas, NumPy<br><br>GitHub Actions, CI/CD<br><br>📊 Current Focus<br><br>Building scalable transformer-based systems<br><br>Exploring quantization techniques for large models (OSS-120B, LLaMA variants)<br><br>Developing interactive visualizations for drug pipelines using concentric/target-style JS plots<br><br>Advanced pandas coding challenges & data wrangling<br><br>🌱 Beyond Code<br><br>I experiment with optimizing inference pipelines for low-resource GPUs.<br><br>I study drug discovery data workflows (mechanism of action clustering, phase visualizations).<br><br>I love turning complex ML concepts into practical, production-ready systems.<br><br>📫 Let’s Connect<br><br>💼 Open to collaborations in AI/ML research, LLM deployment, and data visualization<br><br>🌐 Always exploring forward-thinking AI systems</p>
+<div align="left">
+
+<h2>Hi, I’m Rhythm 👋</h2>
+<p>
+I’m a Data Scientist, Machine Learning & Deep Learning Engineer, and Full-Stack (MEAN) Developer with 2+ years of experience building, fine-tuning, and deploying AI/ML solutions across NLP, Computer Vision, and Generative AI.
+</p>
+
+<h3>💡 My Focus</h3>
+<ul>
+  <li>Designing end-to-end ML pipelines — from dataset preparation → training → evaluation → deployment</li>
+  <li>Building NLP systems (transformers, LoRA fine-tuning, quantization, efficient inference)</li>
+  <li>Computer Vision & OCR solutions optimized for embedded/edge devices</li>
+  <li>Generative AI with LLMs (Transformers, Unsloth, Ollama, OSS-120B, LoRA)</li>
+  <li>Deployment on cloud & edge (Raspberry Pi, containers, GPUs, RunPod)</li>
+  <li>Full-stack MEAN development integrated with AI backends</li>
+</ul>
+
+<h3>🔧 Tech Stack</h3>
+<b>Languages & Frameworks:</b> Python, JavaScript (Node.js, Angular, Express, MongoDB), PyTorch, TensorFlow, Hugging Face, FastAPI, Flask, LangChain<br>
+<b>Specialties:</b> NLP, Computer Vision & OCR, Generative AI, Edge AI (Raspberry Pi, IoT)<br>
+<b>Tools & Platforms:</b> Docker, Kubernetes, RunPod, GCP, AWS, Azure, MongoDB, SQL, Pandas, NumPy, GitHub Actions (CI/CD)
+
+<h3>📊 Current Focus</h3>
+<ul>
+  <li>Building scalable transformer-based systems</li>
+  <li>Exploring quantization techniques for large models (OSS-120B, LLaMA variants)</li>
+  <li>Developing interactive drug pipeline visualizations with target-style JS plots</li>
+  <li>Advanced pandas coding challenges & data wrangling</li>
+</ul>
+
+<h3>🌱 Beyond Code</h3>
+<ul>
+  <li>Optimizing inference pipelines for low-resource GPUs</li>
+  <li>Studying drug discovery workflows (MOA clustering, phase visualizations)</li>
+  <li>Turning complex ML concepts into production-ready systems</li>
+</ul>
+
+<h3>📫 Let’s Connect</h3>
+<p>
+💼 Open to collaborations in AI/ML research, LLM deployment, and data visualization.<br>
+🌐 Always exploring forward-thinking AI systems.
+</p>
+
+</div>
+
 
 ###
 
