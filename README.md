@@ -12,47 +12,46 @@
 
 <h2>Hi, I’m Rhythm 👋</h2>
 <p>
-I’m a Data Scientist, Machine Learning & Deep Learning Engineer, and Full-Stack (MEAN) Developer with 2+ years of experience building, fine-tuning, and deploying AI/ML solutions across NLP, Computer Vision, and Generative AI.
+I’m a Data Engineer, Machine Learning & Deep Learning Engineer, and Full-Stack (MEAN) Developer with 2+ years of experience building scalable data pipelines, processing systems, and deploying AI/ML solutions across large-scale data-driven applications.
 </p>
 
 <h3>💡 My Focus</h3>
 <ul>
-  <li>Designing end-to-end ML pipelines — from dataset preparation → training → evaluation → deployment</li>
-  <li>Building NLP systems (transformers, LoRA fine-tuning, quantization, efficient inference)</li>
-  <li>Computer Vision & OCR solutions optimized for embedded/edge devices</li>
-  <li>Generative AI with LLMs (Transformers, Unsloth, Ollama, OSS-120B, LoRA)</li>
-  <li>Deployment on cloud & edge (Raspberry Pi, containers, GPUs, RunPod)</li>
-  <li>Full-stack MEAN development integrated with AI backends</li>
+  <li>Designing and building scalable ETL/ELT pipelines — ingestion → transformation → storage → serving</li>
+  <li>Developing real-time and batch data processing systems (streaming + distributed computing)</li>
+  <li>Data warehousing, modeling, and optimization for analytics and ML workloads</li>
+  <li>Building data infrastructure for ML systems (feature stores, data pipelines, training pipelines)</li>
+  <li>Cloud-native data engineering (AWS/GCP/Azure, distributed storage, containerized workflows)</li>
+  <li>Full-stack MEAN development integrated with data platforms and APIs</li>
 </ul>
 
 <h3>🔧 Tech Stack</h3>
-<b>Languages & Frameworks:</b> Python, JavaScript (Node.js, Angular, Express, MongoDB), PyTorch, TensorFlow, Hugging Face, FastAPI, Flask, LangChain<br>
-<b>Specialties:</b> NLP, Computer Vision & OCR, Generative AI, Edge AI (Raspberry Pi, IoT)<br>
-<b>Tools & Platforms:</b> Docker, Kubernetes, RunPod, GCP, AWS, Azure, MongoDB, SQL, Pandas, NumPy, GitHub Actions (CI/CD)
+<b>Languages & Frameworks:</b> Python, SQL, JavaScript (Node.js, Angular, Express), Apache Spark, Apache Kafka, Airflow, FastAPI<br>
+<b>Specialties:</b> Data Engineering, Distributed Systems, Data Warehousing, Streaming Pipelines, ETL/ELT, Data Modeling<br>
+<b>Tools & Platforms:</b> Docker, Kubernetes, Apache Airflow, Apache Spark, Kafka, GCP (BigQuery, Dataflow), AWS (S3, Glue, Redshift, Lambda), Azure, MongoDB, PostgreSQL, MySQL, Snowflake, Delta Lake, GitHub Actions (CI/CD)
 
 <h3>📊 Current Focus</h3>
 <ul>
-  <li>Building scalable transformer-based systems</li>
-  <li>Exploring quantization techniques for large models (OSS-120B, LLaMA variants)</li>
-  <li>Developing interactive drug pipeline visualizations with target-style JS plots</li>
-  <li>Advanced pandas coding challenges & data wrangling</li>
+  <li>Building scalable and fault-tolerant data pipelines</li>
+  <li>Optimizing distributed data processing (Spark, streaming systems)</li>
+  <li>Designing real-time data ingestion and analytics systems</li>
+  <li>Improving data quality, observability, and pipeline reliability</li>
 </ul>
 
 <h3>🌱 Beyond Code</h3>
 <ul>
-  <li>Optimizing inference pipelines for low-resource GPUs</li>
-  <li>Studying drug discovery workflows (MOA clustering, phase visualizations)</li>
-  <li>Turning complex ML concepts into production-ready systems</li>
+  <li>Exploring modern data architectures (Lakehouse, Data Mesh)</li>
+  <li>Optimizing large-scale data systems for performance and cost</li>
+  <li>Bridging Data Engineering with ML systems (MLOps, feature pipelines)</li>
 </ul>
 
 <h3>📫 Let’s Connect</h3>
 <p>
-💼 Open to collaborations in AI/ML research, LLM deployment, and data visualization.<br>
-🌐 Always exploring forward-thinking AI systems.
+💼 Open to collaborations in Data Engineering, distributed systems, and scalable data platforms.<br>
+🌐 Always exploring high-performance data infrastructure and systems design.
 </p>
 
 </div>
-
 
 ###
 
@@ -69,17 +68,15 @@ I’m a Data Scientist, Machine Learning & Deep Learning Engineer, and Full-Stac
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -87,32 +84,24 @@ I’m a Data Scientist, Machine Learning & Deep Learning Engineer, and Full-Stac
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhythm-08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhythm-08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhythm-08&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhythm-08&layout=compact&theme=dracula" height="150" />
 </div>
 
 ###
@@ -121,13 +110,13 @@ I’m a Data Scientist, Machine Learning & Deep Learning Engineer, and Full-Stac
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rhythm-08.Rhythm-08&left_color=darkviolet&right_color=dimgrey"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rhythm-08.Rhythm-08"  />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/ju4v4brilwlixa6dzx0g2az8i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ju4v4brilwlixa6dzx0g2az8i&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ju4v4brilwlixa6dzx0g2az8i&count=5" />
   </a>
 </div>
 
@@ -135,6 +124,6 @@ I’m a Data Scientist, Machine Learning & Deep Learning Engineer, and Full-Stac
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rhythm-08/Rhythm-08/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rhythm-08/Rhythm-08/output/snake.svg" />
 
 ###
